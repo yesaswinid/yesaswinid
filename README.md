@@ -1,4 +1,4 @@
-## Hi there 👋
+## Detail-oriented and results-driven Data Analyst, utilizing my 5+ years of experience in leveraging data analytics to drive business improvements and support strategic decision-making. Profi cient in data mining, statistical analysis and data visualization using tools such as SQL, PowerBI, Tableau and Python. Strong background in transforming complex datasets into actionable insights, optimizing processes and enhancing customer experiences. Proven ability to collaborate cross-functionally and communicate fi ndings to stakeholders at all levels.
 
 <!--
 **yesaswinid/yesaswinid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
